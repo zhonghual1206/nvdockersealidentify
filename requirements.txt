@@ -9,6 +9,6 @@ pandas==0.24.2
 request==2019.4.13
 requests==2.21.0
 Tornado==1.0.0
-tensorflow-gpu==1.8.0
+tensorflow-gpu==1.15.0
 opencv-python==3.4.0.12
 Flask-Cors==3.0.8
