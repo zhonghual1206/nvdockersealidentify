@@ -11,4 +11,4 @@ requests==2.21.0
 Tornado==1.0.0
 tensorflow-gpu==1.8.0
 opencv-python==3.4.0.12
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
